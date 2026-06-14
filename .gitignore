@@ -1,6 +1,6 @@
 /vendor/
 /.env
 
-/public/paginas/uploads/
+/public/uploads/
 
 /database/banco.sqlite
