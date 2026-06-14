@@ -1,0 +1,15 @@
+{
+    "name": "marcos/agendamento",
+    "autoload": {
+        "psr-4": {
+            "Marcos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "marcos",
+            "email": "diasmarcos846@gmail.com"
+        }
+    ],
+    "require": {}
+}
